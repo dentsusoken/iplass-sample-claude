@@ -13,12 +13,12 @@ iPLAss × Claude Code で作成したサンプルアプリ集です。
 
 各サンプルアプリのディレクトリに含まれるパッケージZIP（`*-package.zip`）を、AdminConsole からインポートしてください。
 
-1. AdminConsole にログイン
+1. AdminConsole を開く
 2. **Packaging** > **Import** を選択
 3. ZIPファイルをアップロード
 4. インポート対象を確認し、実行
 
-詳細は [パッケージング（Developer Guide）](https://iplass.org/en/docs/developerguide/support/index.html#tools_packaging) を参照してください。
+詳細は [Packaging（Developer Guide）](https://iplass.org/en/docs/developerguide/support/index.html#tools_packaging) を参照してください。
 
 ## サンプルアプリ一覧
 
