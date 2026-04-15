@@ -18,4 +18,4 @@ iPLAss × Claude Code で作成した社内ポータルのサンプルアプリ�
 
 ## 関連記事
 
-- [ローコード×生成AI：iPLAssとClaude Codeで社内ポータルを作ってみた（Qiita）](TODO)
+- [ローコード×生成AI：iPLAssとClaude Codeで社内ポータルを作ってみた（Qiita）](https://qiita.com/kgym_k/items/ffa6d0ad6a140f365261)
